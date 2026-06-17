@@ -56,15 +56,6 @@ with the same obsession over both.
 
 > A real e-commerce platform built for an actual bag business — not a side project, a live product.
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  ✅  Product catalogue + WhatsApp/Instagram share        │
-│  ✅  Admin panel (hidden entry + JWT auth + CRUD)        │
-│  ✅  Multi-media: Cloudinary images + YouTube chunking   │
-│  ✅  Docker + GitHub Actions CI/CD on Linux + Nginx      │
-└─────────────────────────────────────────────────────────┘
-```
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -79,15 +70,6 @@ with the same obsession over both.
 
 > Full-stack document summarisation with citations — zero boilerplate, full architecture, 24 hours.
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  ✅  NLP models → concise summaries with references     │
-│  ✅  React frontend + Node.js/Express backend           │
-│  ✅  MongoDB for persistence                            │
-│  ✅  Built clean — no shortcuts                         │
-└─────────────────────────────────────────────────────────┘
-```
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -101,15 +83,6 @@ with the same obsession over both.
 
 > Context-aware food recommendation SPA built for the AMD Singshot Prompt-a-thon.
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  ✅  Google AntiGravity API for personalised recs       │
-│  ✅  Custom hooks, React Router, lazy loading           │
-│  ✅  Dietary restriction rendering + localStorage       │
-│  ✅  Docker + GitHub Actions + Nginx deployment         │
-└─────────────────────────────────────────────────────────┘
-```
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -121,15 +94,6 @@ with the same obsession over both.
 <br/>
 
 > Category-wise filtering & rental booking system. Mobile-first. Deployed on Netlify.
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  ✅  Category filtering + rental booking flow           │
-│  ✅  Mobile-responsive design                           │
-│  ✅  Deployed on Netlify                                │
-│  🔜  Payments + user auth (planned)                    │
-└─────────────────────────────────────────────────────────┘
-```
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -160,7 +124,7 @@ $ ping soham.dev --intent="hire | collab | build something real"
 
 PING soham.dev ...
 64 bytes: I read every message.
-64 bytes: Response time < 24 hours.  
+64 bytes: Response time < 24 hours.
 64 bytes: Always open to interesting problems.
 --- 3 packets transmitted, 3 received, 0% loss ---
 ```
