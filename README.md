@@ -1,204 +1,239 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:f97316&height=200&section=header&text=Soham%20Sakhare&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20CS%20Undergrad&descAlignY=60&descSize=16" width="100%"/>
+```
+███████╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗
+██╔════╝██╔═══██╗██║  ██║██╔══██╗████╗ ████║
+███████╗██║   ██║███████║███████║██╔████╔██║
+╚════██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║
+███████║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Docker;I+Ship+Fast.+I+Deploy+on+Linux.;From+Idea+%E2%86%92+Production+in+24+Hours." alt="Typing SVG" />
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=500&lines=console.log(%22Hey+there!+I%27m+Soham+%F0%9F%91%8B%22);const+role+%3D+%22Full-Stack+Developer%22;%2F%2F+Currently+interning+%40+WhiteCode;%2F%2F+Smart+India+Hackathon+2024+%F0%9F%8F%86;git+commit+-m+%22building+things+that+matter%22)](https://github.com/Soham553)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-## 👨‍💻 whoami
-
-- 🎓 **B.E. Computer Science** — SPPU *(2023–27)*
-- 💼 **Web Developer Intern** @ **WhiteCode** `[Current]`
-- 🏆 **Smart India Hackathon 2024** — PII Masking with OCR + AES
-- 🐳 Deep-diving into **Docker · GitHub Actions · Linux**
-- 🎯 End goal: **Full-Stack + DevOps Engineer**
-- 💡 Exploring **AI/ML integration** in web apps
-- 🏅 **MongoDB Certified** — MongoDB University
-- 📬 [sakharesoham18@gmail.com](mailto:sakharesoham18@gmail.com)
-
-<br clear="right"/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sakhare-016b33254)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soham553)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakharesoham18@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Soham553&color=f97316&style=for-the-badge&label=Profile+Views)](https://github.com/Soham553)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sakhare016b33254)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soham553)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakharesoham18@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918806375193)
 
 </div>
 
 ---
 
-## 💼 Experience
+## `$ whoami`
 
-<div align="center">
+```bash
+soham@portfolio:~$ cat about.txt
+```
 
-<table>
-  <tr>
-    <td align="center" width="120"><strong>🏢 WhiteCode</strong></td>
-    <td>🧑‍💻 <strong>Web Developer Intern</strong> &nbsp;·&nbsp; 📅 Jan 2026 – Present &nbsp;·&nbsp; Full-Stack Web Development</td>
-  </tr>
-</table>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Name    : Soham Somnath Sakhare                                │
+│  Role    : Full-Stack Developer                                  │
+│  Base    : Pune, Maharashtra, India                              │
+│  Status  : [OPEN TO WORK] — Actively seeking SWE roles          │
+│  Mission : Build products that solve real problems, ship fast,  │
+│            and survive production                                │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-</div>
-
-> *Shipping real features in a production codebase. Learning what "done" actually means.*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**⚡ Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**🔧 Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**💻 Also fluent in**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**🚀 DevOps & Tools** &nbsp;`actively learning`
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+> I don't just write code — I wire up full systems.  
+> From React UIs to Docker containers to Nginx reverse proxies —  
+> I own the whole stack.
 
 ---
 
-## 🚀 Featured Projects
+## `$ ls ./projects`
+
+```bash
+soham@portfolio:~$ ls -la ./projects --sort=impact
+```
+
+---
+
+### 🛍️ `bagnest/` — E-Commerce Platform *(Production-Grade)*
+
+```
+drwxr-xr-x  Full-Stack  [React · Node.js · Express · MongoDB · Docker]
+```
+
+A real-world e-commerce platform built for an actual bag business.
+
+| Feature | Implementation |
+|---|---|
+| 🛒 Product Catalogue | Dynamic listings with WhatsApp & Instagram share (pre-filled) |
+| 🔐 Admin Panel | Hidden entry point + JWT auth for full CRUD |
+| 🎥 Media Uploads | Cloudinary (images) + YouTube API with video chunking |
+| 🚀 Infra | Docker + GitHub Actions + Nginx + Shell Scripts on Linux |
+
+```
+Tech: React · Tailwind CSS · Node.js · Express · MongoDB · Docker · Nginx
+```
+
+---
+
+### 📄 `doc-summariser/` — NLP Hackathon Winner *(24 Hours)*
+
+```
+drwxr-xr-x  Full-Stack  [React · Node.js · NLP · MongoDB]
+```
+
+Built a full-stack document summarisation tool with citations — **in a single hackathon day.**
+
+- Integrated NLP models for concise summaries that preserve source references
+- React frontend + Express backend + MongoDB, zero boilerplate shortcuts
+
+```
+Built in: 24 hours  |  Stack: React · Node.js · Express · MongoDB
+```
+
+---
+
+### 🍽️ `food-assistant/` — AMD Singshot Prompt-a-thon *(Hackathon)*
+
+```
+drwxr-xr-x  React SPA  [React · Google AntiGravity API · Docker]
+```
+
+Personalised food recommendation SPA with dietary restriction handling.
+
+- Custom hooks, React Router, lazy loading, and reusable component architecture
+- `localStorage` persistence + conditional rendering for dietary filters
+- Deployed via Docker + GitHub Actions + Nginx reverse proxy
+
+```
+Built in: 24 hours  |  Stack: React · Google API · Docker · GitHub Actions
+```
+
+---
+
+### 🏋️ `shaktisaaz-loft/` — Equipment Rental Platform *(Frontend)*
+
+```
+drwxr-xr-x  Frontend  [React · Node.js · MongoDB · Netlify]
+```
+
+- Category-wise filtering + rental booking system
+- Mobile-responsive design with planned payments & user auth
+- Deployed on Netlify
+
+```
+Stack: React · Node.js · Express · MongoDB
+```
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "frontend"  : ["React", "JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  "backend"   : ["Node.js", "Express.js", "REST APIs"],
+  "databases" : ["MongoDB", "MySQL"],
+  "devops"    : ["Docker", "GitHub Actions", "Linux", "Nginx", "Shell Scripting"],
+  "languages" : ["JavaScript", "C++"],
+  "tools"     : ["Git", "GitHub", "VS Code", "Postman"]
+}
+```
+
+---
+
+## `$ git log --oneline ./stack`
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 PII Data Masking</h3>
-      <p align="center"><em>Smart India Hackathon 2024 · AI/ML + Encryption</em></p>
-      <p>Detected and masked Personally Identifiable Information using <strong>OCR</strong>, <strong>AES encryption</strong>, and <strong>REST APIs</strong> — built for real-world data privacy compliance under competition pressure.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AES%20Encryption-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OCR-F97316?style=flat-square"/>
-        <img src="https://img.shields.io/badge/REST%20API-22C55E?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 Document Summarizer</h3>
-      <p align="center"><em>24-Hour Hackathon · Full Stack + NLP</em></p>
-      <p>Zero to production in 24 hours — <strong>React.js</strong> frontend, <strong>Node.js/Express.js</strong> backend, <strong>MongoDB</strong> storage, and NLP models for summarization with preserved source citations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-EC4899?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Shaktisaaz Loft</h3>
-      <p align="center"><em>Frontend Project · React.js + Cloudinary</em></p>
-      <p>Fully responsive <strong>React.js</strong> frontend for a cultural and creative platform with <strong>Cloudinary</strong> integration for seamless media management.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎵 Music Player</h3>
-      <p align="center"><em>Vanilla JS · DOM Mastery</em></p>
-      <p>Fully functional music player built from scratch — no frameworks, no shortcuts. <strong>HTML, CSS & JavaScript</strong> only. Where DOM manipulation and event handling really clicked.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `$ cat education.log`
+
+```
+[2023 → 2027]  B.E. Computer Science
+               Savitribai Phule Pune University, Pune
+
+[2021 → 2022]  Higher Secondary (HSC)
+               DSM College of Arts and Sciences, Parbhani
+
+[2019 → 2020]  Secondary School (SSC)
+               Late Raosaheb Jamkar School, Parbhani
+```
+
+---
+
+## `$ ls ./certifications`
+
+```
+✅  MongoDB Atlas Certification     — MongoDB University
+🏆  AMD Singshot Prompt-a-thon      — Hackathon Participant (24hr build)
+🏆  Document Summarisation Hackathon — 24hr Full-Stack Build
+```
+
+---
+
+## `$ top` — Live Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soham553&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=7c3aed#gh-dark-mode-only"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soham553&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=7c3aed&icon_color=f97316#gh-light-mode-only"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316#gh-dark-mode-only"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham553&layout=compact&theme=default&hide_border=true&title_color=7c3aed#gh-light-mode-only"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soham553&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FFB347&text_color=E6EDF3)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E6EDF3)
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Soham553&theme=tokyonight&hide_border=true&stroke=7c3aed&ring=f97316&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa" width="60%"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham553&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&color=f97316&line=7c3aed&point=f97316)](https://github.com/Soham553)
+![GitHub Streak](https://streak-stats.demolab.com?user=Soham553&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FFB347&currStreakLabel=00D4FF)
 
 </div>
 
 ---
 
-## 📈 What I'm Learning Next
+## `$ ping soham`
+
+```bash
+soham@portfolio:~$ ping me --reason="collaboration | hiring | building something cool"
+```
+
+```
+PING soham.dev ...
+64 bytes from soham: I read every message.
+64 bytes from soham: Response time < 24 hours.
+64 bytes from soham: Always open to interesting problems.
+```
+
+<div align="center">
+
+**Let's build something real.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sakhare016b33254)
+[![GitHub](https://img.shields.io/badge/See_My_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soham553)
+[![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakharesoham18@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    UP NEXT FOR SOHAM                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  🐳  Mastering  ->  Docker & container orchestration         ║
-║  🔧  Automating ->  CI/CD pipelines with GitHub Actions      ║
-║  ☁  Exploring  ->  Cloud basics (AWS / GCP)                  ║
-║  📖  Reading    ->  System design & clean architecture        ║
-║  🤝  Open to    ->  Collabs & OSS contributions              ║
-╚══════════════════════════════════════════════════════════════╝
+  "Ship it. Fix it. Scale it." 
 ```
 
-</div>
-
-<div align="center">
-
-<br/>
-
-*"Build things. Break things. Learn everything."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f97316,100:7c3aed&height=130&section=footer" width="100%"/>
+*Made with terminal aesthetics & genuine intent*  
+![Visitor Count](https://komarev.com/ghpvc/?username=Soham553&color=00D4FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
