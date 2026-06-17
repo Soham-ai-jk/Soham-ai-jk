@@ -1,14 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d2f7,100:58a6ff&height=200&section=header&text=Soham%20Sakhare&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Ships%20on%20Linux%20%7C%20Deploys%20in%2024hrs&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=39D2F7&center=true&vCenter=true&multiline=false&width=600&lines=const+soham+%3D+new+FullStackDev()%3B;soham.ship(%22idea+%E2%86%92+production%22%2C+%2224hrs%22)%3B;docker+run+--rm+soham%2Fportfolio%3Alatest;npm+run+build+%26%26+./deploy.sh;git+commit+-m+%22feat%3A+shipped+it+%F0%9F%9A%80%22" alt="typing" />
-
-</div>
 
 ---
 
