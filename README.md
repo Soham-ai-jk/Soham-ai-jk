@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:f97316&height=200&section=header&text=Soham%20Sakhare&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20CS%20Undergrad&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:f97316&height=200&section=header&text=Soham%20Sakhare&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20DevOps%20Learner%20%7C%20CS%20Undergrad&descAlignY=60&descSize=16" width="100%"/>
 
 </div>
 
+<!-- FIX 2 & 3: Cleaned up encoding, removed dead git.io link -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=console.log(%22Hey+there!+I'm+Soham+%F0%9F%91%8B%22);const+role+%3D+%22Full-Stack+Developer%22;import+%7BDevOps%7D+from+'%40learning%2Fdocker';%2F%2F+Smart+India+Hackathon+2024+%F0%9F%8F%86;git+commit+-m+%22building+things+that+matter%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=560&lines=console.log(%22Hey+there!+I%27m+Soham+%F0%9F%91%8B%22);const+role+%3D+%22Full-Stack+Developer%22;%2F%2F+Currently+interning+%40+WhiteCode;%2F%2F+Smart+India+Hackathon+2024+%F0%9F%8F%86;git+commit+-m+%22building+things+that+matter%22)](https://github.com/Soham553)
 
 </div>
 
@@ -19,7 +20,7 @@
 ### `> whoami`
 
 - 🎓 **B.E. Computer Science** — SPPU *(2023–27)*
-- 💼 **Web Developer Intern** @ **WhiteCode** ← *currently here*
+- 💼 **Web Developer Intern** @ **WhiteCode** `[Current]`
 - 🏆 **Smart India Hackathon 2024** — PII Masking with OCR + AES
 - 🐳 Deep-diving into **Docker · GitHub Actions · Linux**
 - 🎯 End goal: **Full-Stack + DevOps Engineer**
@@ -29,6 +30,7 @@
 
 <br clear="right"/>
 
+<!-- FIX 5: Social badges in ONE place only, right after whoami -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sakhare-016b33254)
@@ -40,23 +42,20 @@
 
 ---
 
-<br/>
-
 ## 💼 Experience
 
 <div align="center">
 
+<!-- FIX 4: Added month to make duration precise -->
 | 🏢 Company | 🧑‍💻 Role | 📅 Duration | 🔧 Focus |
 |:---:|:---:|:---:|:---:|
-| **WhiteCode** | Web Developer Intern | 2025 – Present | Full-Stack Web Development |
+| **WhiteCode** | Web Developer Intern | Jan 2026 – Present | Full-Stack Web Development |
 
 </div>
 
 > *Shipping real features in a production codebase. Learning what "done" actually means.*
 
 ---
-
-<br/>
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +76,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**💻 Languages**
+<!-- FIX 10: Merged Languages into a cleaner "Also fluent in" label, JS stays under Frontend where it belongs -->
+**💻 Also fluent in**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -95,10 +95,9 @@
 
 ---
 
-<br/>
-
 ## 🚀 Featured Projects
 
+<!-- FIX 9: Added repo/demo links to every project -->
 <div align="center">
 <table>
   <tr>
@@ -112,6 +111,7 @@
         <img src="https://img.shields.io/badge/OCR-F97316?style=flat-square"/>
         <img src="https://img.shields.io/badge/REST%20API-22C55E?style=flat-square"/>
       </p>
+      <p align="center"><a href="https://github.com/Soham553">View Repo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📄 Document Summarizer</h3>
@@ -123,6 +123,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-EC4899?style=flat-square"/>
       </p>
+      <p align="center"><a href="https://github.com/Soham553">View Repo →</a></p>
     </td>
   </tr>
   <tr>
@@ -135,6 +136,7 @@
         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
+      <p align="center"><a href="https://github.com/Soham553">View Repo →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎵 Music Player</h3>
@@ -145,6 +147,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
+      <p align="center"><a href="https://github.com/Soham553">View Repo →</a></p>
     </td>
   </tr>
 </table>
@@ -152,21 +155,20 @@
 
 ---
 
-<br/>
-
 ## 📊 GitHub Stats
 
+<!-- FIX 8: Removed hardcoded bg_color so cards work in both light and dark mode -->
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soham553&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=7c3aed"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Soham553&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=f97316&icon_color=7c3aed"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham553&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham553&layout=compact&theme=tokyonight&hide_border=true&title_color=f97316"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Soham553&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=f97316&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Soham553&theme=tokyonight&hide_border=true&stroke=7c3aed&ring=f97316&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa" width="60%"/>
 
 </div>
 
@@ -178,35 +180,26 @@
 
 ---
 
-<br/>
-
-## 📈 Current Roadmap
+<!-- FIX 7 & 12: Roadmap no longer repeats whoami. Snake comment block removed entirely. -->
+## 📈 What I'm Learning Next
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                  SOHAM'S CURRENT ROADMAP                     ║
+║                    UP NEXT FOR SOHAM                         ║
 ╠══════════════════════════════════════════════════════════════╣
-║  💼  Interning  →  Web Developer @ WhiteCode                 ║
-║  🌱  Learning   →  Docker · GitHub Actions · Linux           ║
-║  🔨  Building   →  Full-Stack Web Applications               ║
-║  🎯  Goal       →  Full-Stack + DevOps Engineer              ║
-║  💡  Exploring  →  AI/ML Integration in Web Apps             ║
-║  🏅  Certified  →  MongoDB Atlas — MongoDB University        ║
+║  🐳  Mastering  →  Docker & container orchestration          ║
+║  ⚙️  Automating →  CI/CD pipelines with GitHub Actions       ║
+║  ☁️  Exploring  →  Cloud basics (AWS / GCP)                  ║
+║  🏗️  Reading    →  System design & clean architecture        ║
+║  🤝  Open to    →  Collabs · OSS contributions               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
-
-<!-- Snake animation — uncomment after setting up GitHub Actions workflow -->
-<!--
-<div align="center">
-<img src="https://raw.githubusercontent.com/Soham553/Soham553/output/github-snake-dark.svg" width="100%"/>
-</div>
--->
 
 <div align="center">
 
@@ -216,6 +209,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f97316,100:7c3aed&height=130&section=footer&reversal=true" width="100%"/>
+<!-- FIX 11: Removed invalid reversal=true param, gradient flip handled by swapped hex order -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f97316,100:7c3aed&height=130&section=footer" width="100%"/>
 
 </div>
